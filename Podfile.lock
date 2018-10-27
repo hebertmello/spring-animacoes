@@ -1,0 +1,16 @@
+PODS:
+  - Spring (1.0.3)
+
+DEPENDENCIES:
+  - Spring (= 1.0.3)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Spring
+
+SPEC CHECKSUMS:
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+
+PODFILE CHECKSUM: 6b19b268d5a236e22d30bbfb927f1a2026ff7621
+
+COCOAPODS: 1.5.0
